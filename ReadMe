@@ -1,0 +1,5 @@
+As broken out on the coding script, Step 1 merges the data to create one data set
+Step 2 pulls mean and std dev data
+Step 3 gives names to data.
+Step 4 labelsthe data
+Step 5 creates a data set for the averages
