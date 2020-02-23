@@ -18,10 +18,10 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ================================================================
 Included Files:
 
-ReadMe.txt
-run_analysis.R 
-FinalData.txt 
+ReadMe.txt - intro and summary
+run_analysis.R - code used to generate data
+Final_Data.txt - summary of data results
+Code.txt - explanation of process
 
-CleanedSummaryData.txt (summary data set with means of all variables by subject and activity)
 
 ================================================================
