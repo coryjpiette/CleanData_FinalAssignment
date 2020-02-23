@@ -43,9 +43,9 @@ Data includes 82 variables.
 [79] "fBodyBodyGyroJerkMag-mean()"     "fBodyBodyGyroJerkMag-std()"     
 [81] "fBodyBodyGyroJerkMag-meanFreq()" "datatype" 
 
-The first variable is the "subjectId" for the subject which participated in the experiment. There are 30 subjects
-The second variable is one of the activity out of six -(WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-Last column, datatype, is an identification whether the subject was a test subject or train subject
-The other 79 columns are the variables with readings pertaining to mean or standard deviation pertaining to total acceleration, body acceleration and gyro in three planes - X,Y and Z.The original variable names have been retained.
-In the tidy data file "Samsung_mean_data_MSP.txt", the "datatype" is dropped. The variable names are also the same and the reading is a mean subject and activity wise.
-The variables preficed with t are a measurement in time domain in seconds and those prefixed with f are in Hz, a fourier trnasform in frequenct domain.
+T"subjectId" refers to subject which participated in the experiment. There are 30 subjects
+activity is one fo the six of the follwoing:WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+Datatype is either a train or terst subject
+Remaining variables refer to mean or standard deviation for total acceleration, body acceleration and gyro in the X,Y and Z planes.
+Final_Data.txt" includes final results
+t = time in seconds, f is in Hz
